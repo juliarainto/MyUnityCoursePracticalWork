@@ -7,7 +7,7 @@ Unity
 ```
 
 
-´Open project´
+Open project
 ```
 Open folder in Unity
 ```
