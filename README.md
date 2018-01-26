@@ -1,5 +1,5 @@
 # MyUnityCoursePracticalWork
-Game I made for Unity Course
+## Game I made for Unity Course
 
 You will need:
 ```
